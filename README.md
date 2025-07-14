@@ -1,9 +1,3 @@
-# Social-Media-Addiction-Analysis
-
-Here's a refined and well-structured version of your project documentation tailored for a `README.md` file. It follows a clear Markdown format, includes headers, bullet points, and emphasizes clarity for readers browsing the project on platforms like GitHub:
-
----
-
 # 📊 Social Media Addiction and Relationships – Data Analysis Project
 
 ## 🧠 Introduction
@@ -32,7 +26,7 @@ The dataset was cleaned and prepared using Microsoft Excel through the following
 
 Data exploration was performed with SQL queries in **DataGrip**. Four CSV files were generated based on specific research questions:
 
-1. **`QUESTION_1__Whats_than_males_on_average.csv`**
+1. **`QUESTION_1__Whats_than_males_on_average`**
    *Average Social Media Usage by Gender*
    → Found similar usage times for males and females.
 
@@ -44,7 +38,7 @@ Data exploration was performed with SQL queries in **DataGrip**. Four CSV files 
    *Addiction and Sleep Patterns by Academic Level*
    → Compared sleep hours and addiction scores across high school, undergraduate, and graduate students.
 
-4. **`QUESTION_5__Does_rela_usage_or_addiction.csv`**
+4. **`QUESTION_4__Does_rela_usage_or_addiction`**
    *Social Media Usage by Relationship Status*
    → Explored how being single, in a relationship, or "it's complicated" correlates with addiction levels.
 
